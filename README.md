@@ -1,4 +1,4 @@
-¡Claro! Aquí tienes un ejemplo de un archivo README para una aplicación de restaurante desarrollada con Ionic 8 y utilizando MongoDB como base de datos:
+
 
 ```markdown
 # Aplicación de Restaurante con Ionic 8 y MongoDB
